@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Liferea Feed List Export</title>
+  </head>
+  <body>
+    <outline title="My Feeds" text="My Feeds" description="My Feeds" type="folder">
+      <outline title="News" text="News" description="News" type="folder">
+        <outline title="Slashdot" text="Slashdot" description="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
+        <outline title="BBC" text="BBC" description="BBC" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=int" htmlUrl="https://www.bbc.co.uk/news/"/>
+      </outline>
+      <outline title="Comics" text="Comics" description="Comics" type="folder">
+        <outline title="xkcd" text="xkcd" description="xkcd" type="atom" xmlUrl="https://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/"/>
+      </outline>
+      <outline title="Blogs" text="Blogs" description="Blogs" type="folder">
+        <outline title="Thejesh GN" text="Thejesh GN" description="Thejesh GN" type="rss" xmlUrl="https://feeds.thejeshgn.com/thejeshgn/" htmlUrl="https://thejeshgn.com"/>
+        <outline title="Snook.ca" text="Snook.ca" description="Snook.ca" type="rss" xmlUrl="|wget --output-document=- --quiet https://snook.ca/posts/index.rss" htmlUrl="https://snook.ca/"/>
+        <outline title="Jon Udell" text="Jon Udell" description="Jon Udell" type="rss" xmlUrl="|wget --output-document=- --quiet https://blog.jonudell.net/feed/" htmlUrl="https://blog.jonudell.net"/>
+        <outline title="Simon Willison's Weblog" text="Simon Willison's Weblog" description="Simon Willison's Weblog" type="atom" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="http://simonwillison.net/atom/everything/"/>
+        <outline title="m a n u s c r y p t s" text="m a n u s c r y p t s" description="m a n u s c r y p t s" type="rss" xmlUrl="http://feeds.feedburner.com/manuscrypts/iITL" htmlUrl="https://www.manuscrypts.com"/>
+        <outline title="The Hot Iron" text="The Hot Iron" description="The Hot Iron" type="rss" xmlUrl="http://feeds.thehotiron.com/thehotiron" htmlUrl="https://www.thehotiron.com/index.php/site/index/"/>
+        <outline title="Ned Batchelder's blog" text="Ned Batchelder's blog" description="Ned Batchelder's blog" type="rss" xmlUrl="|wget --output-document=- --quiet https://nedbatchelder.com/blog/rss.xml" htmlUrl="https://nedbatchelder.com/blog"/>
+        <outline title="S Anand" text="S Anand" description="S Anand" type="rss" xmlUrl="http://feeds.s-anand.net/sanand" htmlUrl="https://www.s-anand.net/blog"/>
+        <outline title="Julia Evans" text="Julia Evans" description="Julia Evans" type="atom" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca"/>
+        <outline title="Scripting News" text="Scripting News" description="Scripting News" type="rss" xmlUrl="http://scripting.com/rss.xml" htmlUrl="http://scripting.com/"/>
+        <outline title="Abhay Rana" text="Abhay Rana" description="Abhay Rana" type="atom" xmlUrl="|wget --output-document=- --quiet https://captnemo.in/atom.xml" htmlUrl="https://captnemo.in/"/>
+        <outline title="Aarpm Parecki" text="Aarpm Parecki" description="Aarpm Parecki" type="atom" xmlUrl="|wget --output-document=- --quiet https://aaronparecki.com/feed.xml" htmlUrl="https://aaronparecki.com/feed.xml"/>
+        <outline title="Sacha Chua" text="Sacha Chua" description="Sacha Chua" type="rss" xmlUrl="|wget --output-document=- --quiet https://sachachua.com/blog/feed/" htmlUrl="https://sachachua.com/blog/feed/"/>
+        <outline title="Pop21" text="Pop21" description="Pop21" type="rss" xmlUrl="|wget --output-document=- --quiet https://popagandhi.com/index.xml" htmlUrl="https://popagandhi.com/"/>
+        <outline title="Martin Fowler" text="Martin Fowler" description="Martin Fowler" type="atom" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl="https://martinfowler.com"/>
+        <outline title="Dan Abramov" text="Dan Abramov" description="Dan Abramov" type="rss" xmlUrl="|wget --output-document=- --quiet https://overreacted.io/rss.xml" htmlUrl="https://overreacted.io"/>
+        <outline title="Stephen Diehl" text="Stephen Diehl" description="Stephen Diehl" type="rss" xmlUrl="|wget --output-document=- --quiet https://www.stephendiehl.com/feed.rss" htmlUrl="http://www.stephendiehl.com"/>
+        <outline title="Continuing Ed  &#x2014; with Edward Snowden" text="Continuing Ed  &#x2014; with Edward Snowden" description="Continuing Ed  &#x2014; with Edward Snowden" type="rss" xmlUrl="https://edwardsnowden.substack.com/feed" htmlUrl="https://edwardsnowden.substack.com"/>
+        <outline title="daniel.haxx.se" text="daniel.haxx.se" description="daniel.haxx.se" type="rss" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog"/>
+        <outline title="Minimalism Life" text="Minimalism Life" description="Minimalism Life" type="rss" xmlUrl="https://minimalism.substack.com/feed" htmlUrl="https://minimalism.substack.com"/>
+        <outline title="Curated Commons" text="Curated Commons" description="Curated Commons" type="rss" xmlUrl="https://subbu.substack.com/feed" htmlUrl="https://subbu.substack.com"/>
+        <outline title="Last Week in AWS" text="Last Week in AWS" description="Last Week in AWS" type="rss" xmlUrl="https://www.lastweekinaws.com/feed/?ck_subscriber_id=1505775926" htmlUrl="https://www.lastweekinaws.com"/>
+        <outline title="rendezvous with cassidoo" text="rendezvous with cassidoo" description="rendezvous with cassidoo" type="rss" xmlUrl="|wget --output-document=- --quiet https://buttondown.email/cassidoo/rss" htmlUrl="https://buttondown.email/cassidoo"/>
+        <outline title="D13V" text="D13V" description="D13V" type="rss" xmlUrl="https://dimitarsimeonov.com/rss.xml" htmlUrl="http://dimitarsimeonov.com"/>
+        <outline title="Serverless Status" text="Serverless Status" description="Serverless Status" type="rss" xmlUrl="https://cprss.s3.amazonaws.com/serverless.email.xml" htmlUrl="https://serverless.email/"/>
+        <outline title="Seldo" text="Seldo" description="Seldo" type="rss" xmlUrl="|wget --output-document=- --quiet http://seldo.com/rss.xml" htmlUrl="https://seldo.com"/>
+        <outline title="Place Header Here" text="Place Header Here" description="Place Header Here" type="rss" xmlUrl="https://rboyd.dev/rss.xml" htmlUrl="https://rboyd.dev"/>
+        <outline title="Cavelab blog" text="Cavelab blog" description="Cavelab blog" type="rss" xmlUrl="https://blog.cavelab.dev/index.xml" htmlUrl="https://blog.cavelab.dev/"/>
+        <outline title="Ctrl Blog" text="Ctrl Blog" description="Ctrl Blog" type="atom" xmlUrl="|wget --output-document=- --quiet https://feed.ctrl.blog/latest.atom" htmlUrl="https://feed.ctrl.blog/latest.atom"/>
+        <outline title="Freedom Be With All" text="Freedom Be With All" description="Freedom Be With All" type="rss" xmlUrl="|wget --output-document=- --quiet https://antranigv.am/weblog_en/index.xml" htmlUrl="https://antranigv.am/weblog_en/"/>
+        <outline title="jwz" text="jwz" description="jwz" type="rss" xmlUrl="https://cdn.jwz.org/blog/feed/" htmlUrl="https://www.jwz.org/blog/"/>
+        <outline title="James' Coffee Blog" text="James' Coffee Blog" description="James' Coffee Blog" type="rss" xmlUrl="|wget --output-document=- --quiet https://jamesg.blog/feeds/posts.xml" htmlUrl="https://jamesg.blog/feeds/posts.xml"/>
+        <outline title="Brain Baking" text="Brain Baking" description="Brain Baking" type="rss" xmlUrl="|wget --output-document=- --quiet https://brainbaking.com/index.xml" htmlUrl="https://brainbaking.com/"/>
+        <outline title="bremensaki.com" text="bremensaki.com" description="bremensaki.com" type="rss" xmlUrl="|wget --output-document=- --quiet https://bremensaki.com/feed/" htmlUrl="https://bremensaki.com"/>
+        <outline title="The Geekorium" text="The Geekorium" description="The Geekorium" type="rss" xmlUrl="https://the.geekorium.com.au/index.xml" htmlUrl="https://the.geekorium.com.au/"/>
+        <outline title="Obsolete 29" text="Obsolete 29" description="Obsolete 29" type="atom" xmlUrl="|wget --output-document=- --quiet https://obsolete29.com/feed/feed.xml" htmlUrl="https://obsolete29.com"/>
+        <outline title="Yukiis Notes" text="Yukiis Notes" description="Yukiis Notes" type="atom" xmlUrl="|wget --output-document=- --quiet https://notes.yukiisbo.red/feed.xml" htmlUrl="https://notes.yukiisbo.red/feed.xml"/>
+        <outline title="yaakov" text="yaakov" description="yaakov" type="rss" xmlUrl="|wget --output-document=- --quiet https://blog.yaakov.online/rss/" htmlUrl="https://blog.yaakov.online/"/>
+        <outline title="A Collection of Unmitigated Pedantry" text="A Collection of Unmitigated Pedantry" description="A Collection of Unmitigated Pedantry" type="rss" xmlUrl="|wget --output-document=- --quiet https://acoup.blog/feed/" htmlUrl="https://acoup.blog"/>
+        <outline title="Bobulate" text="Bobulate" description="Bobulate" type="atom" xmlUrl="|wget --output-document=- --quiet https://euroquis.nl//feed.xml" htmlUrl="https://euroquis.nl//"/>
+        <outline title="omussell" text="omussell" description="omussell" type="atom" xmlUrl="https://omussell.github.io/atom.xml" htmlUrl="https://omussell.github.io"/>
+        <outline title="On my Om" text="On my Om" description="On my Om" type="rss" xmlUrl="|wget --output-document=- --quiet https://om.co/feed/" htmlUrl="https://om.co"/>
+        <outline title="Quakkels" text="Quakkels" description="Quakkels" type="rss" xmlUrl="|wget --output-document=- --quiet https://quakkels.com/index.xml" htmlUrl="https://quakkels.com/"/>
+        <outline title="Brianli" text="Brianli" description="Brianli" type="rss" xmlUrl="|wget --output-document=- --quiet https://brianli.com/index.xml" htmlUrl="/"/>
+        <outline title="blog.kroy.io" text="blog.kroy.io" description="blog.kroy.io" type="rss" xmlUrl="https://blog.kroy.io/feed/" htmlUrl="https://blog.kroy.io/"/>
+        <outline title="Jeff Geerling" text="Jeff Geerling" description="Jeff Geerling" type="rss" xmlUrl="|wget --output-document=- --quiet https://www.jeffgeerling.com/blog.xml" htmlUrl="https://www.jeffgeerling.com/"/>
+        <outline title="Jack Cheng" text="Jack Cheng" description="Jack Cheng" type="rss" xmlUrl="|wget --output-document=- --quiet https://jackcheng.com/feed.xml" htmlUrl="https://www.jackcheng.com"/>
+        <outline title="A Few Thoughts on Cryptographic Engineering" text="A Few Thoughts on Cryptographic Engineering" description="A Few Thoughts on Cryptographic Engineering" type="rss" xmlUrl="|wget --output-document=- --quiet https://blog.cryptographyengineering.com/feed/" htmlUrl="https://blog.cryptographyengineering.com"/>
+        <outline title="$ls /home/rohit/" text="$ls /home/rohit/" description="$ls /home/rohit/" type="rss" xmlUrl="https://rohitshetty.github.io/index.xml" htmlUrl="https://rohitshetty.github.io/"/>
+        <outline title="Adactio" text="Adactio" description="Adactio" type="rss" xmlUrl="|wget --output-document=- --quiet https://adactio.com/rss" htmlUrl="https://adactio.com/"/>
+        <outline title="Brain Pickings" text="Brain Pickings" description="Brain Pickings" type="rss" xmlUrl="https://feeds.feedburner.com/brainpickings/rss" htmlUrl="https://www.themarginalian.org"/>
+        <outline title="Henrique Dias" text="Henrique Dias" description="Henrique Dias" type="rss" xmlUrl="|wget --output-document=- --quiet https://hacdias.com/.rss" htmlUrl="https://hacdias.com/"/>
+        <outline title="jlelse&#x2019;s Blog" text="jlelse&#x2019;s Blog" description="jlelse&#x2019;s Blog" type="rss" xmlUrl="|wget --output-document=- --quiet https://jlelse.blog/.rss" htmlUrl="https://jlelse.blog"/>
+        <outline title="Maggie Appleton" text="Maggie Appleton" description="Maggie Appleton" type="rss" xmlUrl="|wget --output-document=- --quiet https://maggieappleton.com/rss.xml" htmlUrl="https://maggieappleton.com"/>
+        <outline title="Robin Sloan" text="Robin Sloan" description="Robin Sloan" type="atom" xmlUrl="https://www.robinsloan.com/feed.xml" htmlUrl="https://www.robinsloan.com/"/>
+        <outline title="Winnie Lim" text="Winnie Lim" description="Winnie Lim" type="rss" xmlUrl="https://winnielim.org/feed/" htmlUrl="https://winnielim.org"/>
+        <outline title="Ben Werdm&#xFC;ller" text="Ben Werdm&#xFC;ller" description="Ben Werdm&#xFC;ller" type="rss" xmlUrl="https://werd.io/feed/" htmlUrl="https://werd.io/feed/"/>
+        <outline title="Andr&#xE9; Arko" text="Andr&#xE9; Arko" description="Andr&#xE9; Arko" type="atom" xmlUrl="https://andre.arko.net/atom.xml" htmlUrl="http://andre.arko.net/"/>
+        <outline title="Uses This" text="Uses This" description="Uses This" type="atom" xmlUrl="https://usesthis.com/feed.atom" htmlUrl="https://usesthis.com/"/>
+        <outline title="Frood For Thought: Your daily read - Telegram Channel" text="Frood For Thought: Your daily read - Telegram Channel" description="Frood For Thought: Your daily read - Telegram Channel" type="rss" xmlUrl="https://rsshub.app/telegram/channel/FroodForThought" htmlUrl="https://t.me/s/FroodForThought"/>
+        <outline title="The India Uncut Newsletter" text="The India Uncut Newsletter" description="The India Uncut Newsletter" type="rss" xmlUrl="https://indiauncut.substack.com/feed" htmlUrl="https://indiauncut.substack.com"/>
+      </outline>
+      <outline title="JS" text="JS" description="JS" type="folder">
+        <outline title="alvinalexander" text="alvinalexander" description="alvinalexander" type="rss" xmlUrl="|wget --output-document=- --quiet https://alvinalexander.com/rss.xml" htmlUrl="https://alvinalexander.com"/>
+        <outline title="Kent C Dodds" text="Kent C Dodds" description="Kent C Dodds" type="rss" xmlUrl="|wget --output-document=- --quiet https://kentcdodds.com/blog/rss.xml" htmlUrl="https://kentcdodds.com/blog"/>
+      </outline>
+      <outline title="Hackaday" text="Hackaday" description="Hackaday" type="folder">
+        <outline title="Hackaday" text="Hackaday" description="Hackaday" type="rss" xmlUrl="|wget --output-document=- --quiet https://hackaday.com/blog/feed/" htmlUrl="https://hackaday.com"/>
+      </outline>
+    </outline>
+  </body>
+</opml>
